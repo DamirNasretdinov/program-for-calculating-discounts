@@ -1,0 +1,9 @@
+C:\Users\black\Desktop\KR2\Z3\Z3\Debug\Z3.vcxprojAssemblyReference.cache
+C:\Users\black\Desktop\KR2\Z3\Z3\Debug\Z3.MyForm.resources
+C:\Users\black\Desktop\KR2\Z3\Z3\Debug\Z3.vcxproj.GenerateResource.cache
+C:\Users\dam24\OneDrive\Рабочий стол\KR2\Z3\Z3\Debug\Z3.vcxproj.AssemblyReference.cache
+C:\Users\dam24\OneDrive\Рабочий стол\KR2\Z3\Z3\Debug\Z3.MyForm.resources
+C:\Users\dam24\OneDrive\Рабочий стол\KR2\Z3\Z3\Debug\Z3.vcxproj.GenerateResource.cache
+G:\учеба рабочий стол\KR2\Z3\Z3\Debug\Z3.vcxproj.AssemblyReference.cache
+G:\учеба рабочий стол\KR2\Z3\Z3\Debug\Z3.MyForm.resources
+G:\учеба рабочий стол\KR2\Z3\Z3\Debug\Z3.vcxproj.GenerateResource.cache

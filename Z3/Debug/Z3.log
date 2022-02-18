@@ -1,0 +1,6 @@
+﻿  MyForm.cpp
+G:\учеба рабочий стол\KR2\Z3\Z3\MyForm.h(346,34): warning C4101: ex: неиспользованная локальная переменная
+  .NETFramework,Version=v4.6.1.AssemblyAttributes.cpp
+  Создание кода...
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Z3.vcxproj -> G:\учеба рабочий стол\KR2\Z3\Debug\Z3.exe
